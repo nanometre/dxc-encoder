@@ -69,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654763168659</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added code for encode and decode">
+      <created>1654771124263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654771124263</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added code for encode and decode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code for encode and decode" />
   </component>
 </project>
